@@ -1,16 +1,11 @@
 # Yoga Cahya Rifai — Portfolio
+Static personal portfolio for GitHub Pages.
 
-Portfolio website statis untuk GitHub Pages.
+Files:
+- index.html
+- style.css
+- script.js
+- assets/profile.jpg
 
-## Struktur
-
-- `index.html` — halaman utama
-- `style.css` — styling dan responsive layout
-- `script.js` — navigasi mobile, animasi reveal, active section
-- `assets/CV-Yoga-Cahya-Rifai.pdf` — tempat file CV PDF
-
-## Catatan
-
-Ganti link GitHub dan LinkedIn di `index.html` dengan akun asli kamu.
-
-Website tidak membutuhkan Node.js atau build process; file HTML/CSS/JS dapat langsung dipublikasikan sebagai static site di GitHub Pages.
+GitHub Pages: Settings → Pages → Deploy from a branch → `main` → `/ (root)` → Save.
+No Node.js or build process is required.
