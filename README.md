@@ -6,6 +6,7 @@ Website portfolio pribadi yang dibuat dengan HTML, CSS, dan JavaScript.
 - `index.html` — halaman utama
 - `style.css` — seluruh desain dan responsive layout
 - `script.js` — menu mobile, dark/light mode, scroll progress, reveal animation
+- `profile.jpg` — foto profil Yoga Cahya Rifai
 
 ## Cara upload ke GitHub
 1. Buat repository baru di GitHub, misalnya `yoga-cahya-rifai-portfolio`.
@@ -17,6 +18,10 @@ Website portfolio pribadi yang dibuat dengan HTML, CSS, dan JavaScript.
 7. Simpan dan tunggu proses deployment selesai.
 8. GitHub akan memberikan alamat website GitHub Pages.
 
-## Sebelum dipublikasikan
-Ganti link Instagram, LinkedIn, dan GitHub di bagian `#contact` pada `index.html`.
-Saat ini WhatsApp sudah diarahkan ke nomor yang tersedia dari data portofolio sebelumnya.
+## Kontak
+WhatsApp, Instagram, LinkedIn, dan GitHub sudah diarahkan langsung dari website.
+
+- WhatsApp: 087872784156
+- Instagram: @n.faii8
+- LinkedIn: Yoga Cahya Rifai
+- GitHub: yogacahyarifaii-bit
